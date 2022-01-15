@@ -24,7 +24,7 @@
 
 <br/>
                                                                                                                                                     </p>
-<a href=""><img alt="Bisheshwor Neupane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KabichNeu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="Aayaan Gautam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=awesomeaayaan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awesomeaayaan&show_icons=true&locale=en&layout=compact" alt="awesomeaayaan" /></p>
