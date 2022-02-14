@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/awesomeaayaan/awesomeaayaan/blob/main/aayaantemplate.png"/></p>
+
 <h1 align="center">Hi 👋, I'm Aayaan Gautam</h1>
 <h3 align="center">A passionate Programmer and machine learning enthusiast from Nepal.</h3>
 
